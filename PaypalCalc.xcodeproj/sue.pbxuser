@@ -1,0 +1,277 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PaypalCalc */ = {
+		activeExec = 0;
+		executables = (
+			80808F0211ADBD6600CB37D0 /* PaypalCalc */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 80808F0211ADBD6600CB37D0 /* PaypalCalc */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PaypalCalc */;
+		codeSenseManager = 80808F2A11ADBD6E00CB37D0 /* Code sense */;
+		executables = (
+			80808F0211ADBD6600CB37D0 /* PaypalCalc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 296598886;
+			PBXWorkspaceStateSaveDate = 296598886;
+		};
+		perUserProjectItems = {
+			80808F2D11ADBEDB00CB37D0 /* PlistBookmark */ = 80808F2D11ADBEDB00CB37D0 /* PlistBookmark */;
+			80808F2E11ADBEDB00CB37D0 /* PBXTextBookmark */ = 80808F2E11ADBEDB00CB37D0 /* PBXTextBookmark */;
+			80808F3011ADBEDB00CB37D0 /* PBXTextBookmark */ = 80808F3011ADBEDB00CB37D0 /* PBXTextBookmark */;
+			80808F3211ADBEDB00CB37D0 /* PBXTextBookmark */ = 80808F3211ADBEDB00CB37D0 /* PBXTextBookmark */;
+			80808F3811ADBEF700CB37D0 /* PBXTextBookmark */ = 80808F3811ADBEF700CB37D0 /* PBXTextBookmark */;
+			80808F3911ADBF0600CB37D0 /* PBXTextBookmark */ = 80808F3911ADBF0600CB37D0 /* PBXTextBookmark */;
+			80808F3A11ADC0ED00CB37D0 /* PBXTextBookmark */ = 80808F3A11ADC0ED00CB37D0 /* PBXTextBookmark */;
+			80808F3D11ADC16B00CB37D0 /* PBXTextBookmark */ = 80808F3D11ADC16B00CB37D0 /* PBXTextBookmark */;
+			80808F3E11ADC16B00CB37D0 /* PBXTextBookmark */ = 80808F3E11ADC16B00CB37D0 /* PBXTextBookmark */;
+			80808F3F11ADC34600CB37D0 /* PBXTextBookmark */ = 80808F3F11ADC34600CB37D0 /* PBXTextBookmark */;
+			80808F4011ADC34E00CB37D0 /* PBXTextBookmark */ = 80808F4011ADC34E00CB37D0 /* PBXTextBookmark */;
+			80808F4311ADC53300CB37D0 /* PBXTextBookmark */ = 80808F4311ADC53300CB37D0 /* PBXTextBookmark */;
+			80808F4411ADC53300CB37D0 /* PBXTextBookmark */ = 80808F4411ADC53300CB37D0 /* PBXTextBookmark */;
+			80808F4511ADC53A00CB37D0 /* PBXTextBookmark */ = 80808F4511ADC53A00CB37D0 /* PBXTextBookmark */;
+			80808F4611ADC54100CB37D0 /* PBXTextBookmark */ = 80808F4611ADC54100CB37D0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 80808F2911ADBD6E00CB37D0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	80808F0211ADBD6600CB37D0 /* PaypalCalc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PaypalCalc;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	80808F2911ADBD6E00CB37D0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	80808F2A11ADBD6E00CB37D0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	80808F2D11ADBEDB00CB37D0 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* PaypalCalc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/sue/Documents/iDev/phonegap/apps/PaypalCalc/PaypalCalc-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	80808F2E11ADBEDB00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F2F11ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 0;
+	};
+	80808F2F11ADBEDB00CB37D0 /* index.html */ = {
+		isa = PBXFileReference;
+		name = index.html;
+		path = /Users/sue/Documents/iDev/phonegap/apps/PaypalCalc/www/index.html;
+		sourceTree = "<absolute>";
+	};
+	80808F3011ADBEDB00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 0;
+	};
+	80808F3111ADBEDB00CB37D0 /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/sue/Documents/iDev/phonegap/apps/PaypalCalc/www/index.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1013, 1121}}";
+			sepNavSelRange = "{1734, 0}";
+			sepNavVisRange = "{339, 1441}";
+			sepNavWindowFrame = "{{103, 46}, {1612, 1005}}";
+		};
+	};
+	80808F3211ADBEDB00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 0;
+	};
+	80808F3811ADBEF700CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 405;
+		vrLoc = 0;
+	};
+	80808F3911ADBF0600CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 42";
+		rLen = 0;
+		rLoc = 1761;
+		rType = 0;
+		vrLen = 1285;
+		vrLoc = 0;
+	};
+	80808F3A11ADC0ED00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 44";
+		rLen = 0;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 1417;
+		vrLoc = 0;
+	};
+	80808F3D11ADC16B00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 51";
+		rLen = 0;
+		rLoc = 1650;
+		rType = 0;
+		vrLen = 1573;
+		vrLoc = 107;
+	};
+	80808F3E11ADC16B00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 51";
+		rLen = 0;
+		rLoc = 1650;
+		rType = 0;
+		vrLen = 1559;
+		vrLoc = 107;
+	};
+	80808F3F11ADC34600CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 5";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 528;
+		vrLoc = 107;
+	};
+	80808F4011ADC34E00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 5";
+		rLen = 0;
+		rLoc = 208;
+		rType = 0;
+		vrLen = 1606;
+		vrLoc = 0;
+	};
+	80808F4311ADC53300CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 53";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 1464;
+		vrLoc = 308;
+	};
+	80808F4411ADC53300CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 53";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 1454;
+		vrLoc = 308;
+	};
+	80808F4511ADC53A00CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 53";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 457;
+		vrLoc = 308;
+	};
+	80808F4611ADC54100CB37D0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 80808F3111ADBEDB00CB37D0 /* index.html */;
+		name = "index.html: 53";
+		rLen = 0;
+		rLoc = 1734;
+		rType = 0;
+		vrLen = 1441;
+		vrLoc = 339;
+	};
+}
